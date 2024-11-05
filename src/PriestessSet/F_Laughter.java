@@ -1,4 +1,4 @@
-package Priestess_java;
+package PriestessSet;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
